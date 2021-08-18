@@ -1,0 +1,22 @@
+{
+  "name": "clase03-1916780",
+  "version": "1.0.0",
+  "description": "Nombre: Kenneth Martin Rodriguez Garcia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplicaciones-mobiles-33/clase03-1916780.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aplicaciones-mobiles-33/clase03-1916780/issues"
+  },
+  "homepage": "https://github.com/aplicaciones-mobiles-33/clase03-1916780#readme",
+  "dependencies": {
+    "http-server": "^13.0.0"
+  }
+}
